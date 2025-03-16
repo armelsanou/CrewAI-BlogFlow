@@ -16,6 +16,11 @@ Execute the script using:
 
 python FlowDemo.py
 
+## Linear Flow
+
+![image](https://github.com/user-attachments/assets/d4f8ad07-cd51-4c88-9a28-dd6667493cc6)
+
+
 ## 📚 Features
 
 Structured Content Creation workflow
