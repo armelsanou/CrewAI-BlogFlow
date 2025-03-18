@@ -7,7 +7,9 @@ FlowDemo.py implements a CrewAI workflow for generating blog content. It defines
 ## 🛠️ Dependencies
 Ensure the following packages are installed:
 
-pip install crewai langchain_ollama python-dotenv
+#### Caution : CrewAI requires Python >=3.10 and <3.13
+
+pip install crewai langchain_ollama python-dotenv crewai-tools agentops 
 ## ⚙️ Configuration
 No additional configuration is required unless modifying the model parameters.
 
